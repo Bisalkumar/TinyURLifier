@@ -31,7 +31,7 @@ Follow the on-screen prompts to shorten your URLs. When you want to exit, simply
 
 ## Screenshots
 
-![Url.png](url.png)
+![Url.png](Url.png)
 
 ## Contributions
 
